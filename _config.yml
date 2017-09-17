@@ -9,7 +9,6 @@ subtitle: "卡比三卖萌的博客"
 description: "KirCute's blog"
 keywords: KirCute, blog
 favicon: /favicon.ico
-# timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 6
 
@@ -18,9 +17,8 @@ side_bar_repo_limit: 6
 # ---------------- #
 author: KirCute_ECT
 github_username: KirCute_ECT
-github_username2: KirCute/KirCute.github.io
+github_simpleusername: KirCute
 organization: Working Together
-location: 
 email: 951206789@qq.com
 
 # ---------------- #

@@ -1,4 +1,5 @@
 push.sh
+push.bat
 _site/
 *.swp
 *.~vsd

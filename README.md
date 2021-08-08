@@ -1,3 +1,7 @@
 ### 我的博客
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+-[从此访问]https://kircute.github.io/
+
+## 关于提交
+将.md格式的文本放于 `_posts/category` 下，命名为以下格式：
+> yyyy-mm-dd-title.md

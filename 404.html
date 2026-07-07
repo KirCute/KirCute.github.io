@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <script>
+        (function() {
+            var fullPath = window.location.pathname + window.location.search + window.location.hash;
+            var encodedPath = encodeURI(window.location.pathname) + window.location.search + window.location.hash;
+            var targetUrl = 'https://www.kircute.top' + encodedPath;
+            targetUrl = targetUrl.replace(/"/g, '%22');
+            document.write('<meta http-equiv="refresh" content="0;url=' + targetUrl + '">');
+        })();
+    </script>
+</head>
+<body>
+    <p>如果您的浏览器没有自动跳转，请点击<a href="https://www.kircute.top">此处</a>.</p>
+</body>
+</html>
